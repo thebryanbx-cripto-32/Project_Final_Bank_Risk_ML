@@ -27,6 +27,7 @@ Add the Tableau Public links here after publishing the dashboards:
 - Credit Card Default Dashboard: [`https://public.tableau.com/views/Final_project_2_17799170177340/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link`]
 
 - Loan Default Risk Dashboard:[`https://public.tableau.com/views/Final_porject_loan/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link`]
+
 ## Business Problem
 
 Financial institutions need to identify clients with a higher probability of default before the default occurs. Traditional credit risk analysis can be improved by using machine learning models that estimate default probability and classify clients into risk segments.
